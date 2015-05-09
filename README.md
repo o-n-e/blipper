@@ -1,12 +1,7 @@
 # blipper
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure application to help diabetes management by recording, analysing and reporting blood sugar levels, insulin doses, carb intake and excercise.
 
-## Usage
-
-FIXME
-
-## License
 
 Copyright © 2015 FIXME
 
